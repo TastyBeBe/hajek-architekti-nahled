@@ -1,2 +1,2 @@
 :HL["/hajek-architekti-nahled/_next/static/chunks/3lo23x7zizld3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"(web)","param":null,"prefetchHints":4096,"slots":{"children":{"name":"hledat","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"td4uzVdei4Mf0Y4t_SzY3"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"(web)","param":null,"prefetchHints":4096,"slots":{"children":{"name":"hledat","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"7CZNPCE4YykMLpAJzNsHD"}
